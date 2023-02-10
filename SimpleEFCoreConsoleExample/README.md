@@ -10,3 +10,7 @@ PM> Update-database
 
  - [Entity Framework Migrations Explained](https://www.youtube.com/watch?v=fl6r-9rQjns)
  - 
+
+#### Visual Studio sqlite plugin:
+
+SQLite and SQL Server Compack Toolbox
