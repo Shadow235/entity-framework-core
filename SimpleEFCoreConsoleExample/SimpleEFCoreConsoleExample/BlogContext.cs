@@ -13,6 +13,6 @@ namespace SimpleEFCoreConsoleExample
 		public DbSet<Post> Posts { get; set; }
 
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-			=> optionsBuilder.UseSqlite("Data Source=Blogs.db");
+			=> optionsBuilder.UseSqlite("Data Source=Test.db");
 	}
 }
